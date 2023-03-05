@@ -2,8 +2,8 @@
 node_modules/
 
 # Ignore token file
-.tokenBr.js
-.tokenLatam.js
+tokenBr.js
+tokenLatam.js
 
 # Ignore excel file
-.hu-dataset-2023.xlsx
+hu-dataset-2023.xlsx
