@@ -1,0 +1,30 @@
+{
+  "name": "facebook-api-data",
+  "version": "1.0.0",
+  "description": "This API request, transform and load data from Facebook Graph API in a Excel file",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciodosanjos/facebook-api-data.git"
+  },
+  "keywords": [
+    "facebook",
+    "api",
+    "graph",
+    "data"
+  ],
+  "author": "Marcio dos Anjos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciodosanjos/facebook-api-data/issues"
+  },
+  "homepage": "https://github.com/marciodosanjos/facebook-api-data#readme",
+  "dependencies": {
+    "excel4node": "^1.8.0",
+    "node": "^19.6.1",
+    "nodemon": "^2.0.21"
+  }
+}
